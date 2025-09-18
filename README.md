@@ -11,4 +11,8 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
