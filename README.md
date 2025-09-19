@@ -7,6 +7,7 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,12 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
