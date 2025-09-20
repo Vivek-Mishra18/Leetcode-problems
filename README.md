@@ -24,4 +24,12 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
