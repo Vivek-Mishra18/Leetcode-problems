@@ -7,6 +7,7 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -19,10 +20,12 @@ this repository contains of the varoius leeetcode problems solves through variou
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
