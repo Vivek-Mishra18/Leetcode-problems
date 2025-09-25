@@ -35,4 +35,8 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
