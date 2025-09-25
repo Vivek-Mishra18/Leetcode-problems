@@ -39,4 +39,5 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
