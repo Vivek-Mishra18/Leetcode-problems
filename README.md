@@ -50,4 +50,20 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
