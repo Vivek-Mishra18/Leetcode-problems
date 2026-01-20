@@ -9,6 +9,7 @@ this repository contains of the varoius leeetcode problems solves through variou
 | [0001-two-sum](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0877-stone-game](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0877-stone-game) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
 |  |
@@ -19,6 +20,7 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0009-palindrome-number) |
+| [0877-stone-game](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0877-stone-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,4 +68,12 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0098-validate-binary-search-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
