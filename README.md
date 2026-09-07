@@ -11,6 +11,7 @@ this repository contains of the varoius leeetcode problems solves through variou
 | [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0740-delete-and-earn](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0740-delete-and-earn) |
 | [0877-stone-game](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ this repository contains of the varoius leeetcode problems solves through variou
 | ------- |
 | [0075-sort-colors](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,4 +101,28 @@ this repository contains of the varoius leeetcode problems solves through variou
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Vivek-Mishra18/Leetcode-problems/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
